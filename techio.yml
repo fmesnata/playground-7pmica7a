@@ -1,4 +1,6 @@
 title: Simple Java Template
 plan:
-- title: Java Snippet
+- title: Mes cours
   statement: statement.md
+- title: Deuxième lecon
+  statement: markdowns/hello.md
